@@ -13,9 +13,4 @@ Features:
 - format cleaned
 - references included (title, link); at some websites (like YouTube) author and date are also included
 
-To do:
-
-- add explanation for video and "online element" import
-- make a video about the above feature because it requires extra preparations in SuperMemo
-
 You can support me here: https://ko-fi.com/winstonwolfie or https://www.buymeacoffee.com/winstonwolfie
