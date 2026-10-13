@@ -12,5 +12,3 @@ Features:
 
 - format cleaned
 - references included (title, link); at some websites (like YouTube) author and date are also included
-
-You can support me here: https://ko-fi.com/winstonwolfie or https://www.buymeacoffee.com/winstonwolfie
